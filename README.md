@@ -105,5 +105,16 @@ For more, see full references in the final report.
 
 ---
 
-## 📂 File Structure
+## 👨‍🎓 Author
+
+**Biraj KC**  
+Student ID: u3245393  
+University of Canberra | Exploratory Data Analysis (Final Project)  
+[LinkedIn](https://www.linkedin.com/in/kcbiraj) | [GitHub](https://github.com/kcbiraj)
+
+---
+
+## 📌 License
+
+This project is for educational purposes under the **University of Canberra's Academic Use Policy**. For reuse or collaboration, please reach out via LinkedIn or GitHub.
 
